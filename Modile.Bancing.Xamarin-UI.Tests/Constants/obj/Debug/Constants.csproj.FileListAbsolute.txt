@@ -1,0 +1,10 @@
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Debug\Constants.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Debug\Constants.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Debug\Constants.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Debug\Constants.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Debug\Xamarin.UITest.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Debug\Xamarin.UITest.xml
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Debug\nunit.framework.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Debug\nunit.framework.xml

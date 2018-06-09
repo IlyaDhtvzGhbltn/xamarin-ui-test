@@ -1,0 +1,32 @@
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\bin\Debug\UITest-Android.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\bin\Debug\UITest-Android.pdb
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\bin\Debug\nunit.framework.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\bin\Debug\Xamarin.UITest.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\bin\Debug\nunit.framework.xml
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\bin\Debug\Xamarin.UITest.xml
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\obj\Debug\UITest-Android.csprojResolveAssemblyReference.cache
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\obj\Debug\UITest-Android.csproj.CoreCompileInputs.cache
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\obj\Debug\UITest-Android.csproj.CopyComplete
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\obj\Debug\UITest-Android.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-Android\obj\Debug\UITest-Android.pdb
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\UITest-Android.dll
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\UITest-Android.pdb
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\nunit.framework.xml
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\Xamarin.UITest.xml
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.csprojResolveAssemblyReference.cache
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.csproj.CoreCompileInputs.cache
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.csproj.CopyComplete
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.dll
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\UITest-Android.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\UITest-Android.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\Constants.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\nunit.framework.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\Xamarin.UITest.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\Constants.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\nunit.framework.xml
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\bin\Debug\Xamarin.UITest.xml
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.csprojResolveAssemblyReference.cache
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.csproj.CoreCompileInputs.cache
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-Android\obj\Debug\UITest-Android.pdb

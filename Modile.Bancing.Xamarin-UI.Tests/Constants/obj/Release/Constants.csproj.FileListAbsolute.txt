@@ -1,0 +1,11 @@
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Release\Constants.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Release\Constants.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Release\Constants.csproj.CoreCompileInputs.cache
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Release\Constants.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Release\Constants.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Release\Xamarin.UITest.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Release\Xamarin.UITest.xml
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Release\nunit.framework.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Release\nunit.framework.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\bin\Release\nunit.framework.xml
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\Constants\obj\Release\Constants.csprojResolveAssemblyReference.cache

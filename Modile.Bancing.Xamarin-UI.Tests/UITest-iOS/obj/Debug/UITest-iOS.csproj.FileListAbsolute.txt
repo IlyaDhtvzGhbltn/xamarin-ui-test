@@ -1,0 +1,32 @@
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\bin\Debug\UITest-iOS.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\bin\Debug\UITest-iOS.pdb
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\bin\Debug\nunit.framework.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\bin\Debug\Xamarin.UITest.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\bin\Debug\nunit.framework.xml
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\bin\Debug\Xamarin.UITest.xml
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\obj\Debug\UITest-iOS.csprojResolveAssemblyReference.cache
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\obj\Debug\UITest-iOS.csproj.CoreCompileInputs.cache
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\obj\Debug\UITest-iOS.csproj.CopyComplete
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\obj\Debug\UITest-iOS.dll
+D:\Mobile.Banking\Quipu.RemoteBanking.Main\UITest-iOS\obj\Debug\UITest-iOS.pdb
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\UITest-iOS.dll
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\UITest-iOS.pdb
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\nunit.framework.xml
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\Xamarin.UITest.xml
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.csprojResolveAssemblyReference.cache
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.csproj.CoreCompileInputs.cache
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.csproj.CopyComplete
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.dll
+D:\My Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\UITest-iOS.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\UITest-iOS.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\Constants.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\nunit.framework.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\Xamarin.UITest.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\Constants.pdb
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\nunit.framework.xml
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\bin\Debug\Xamarin.UITest.xml
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.csprojResolveAssemblyReference.cache
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.csproj.CoreCompileInputs.cache
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.dll
+D:\My_Utilits\Modile.Bancing.Xamarin-UI.Tests\UITest-iOS\obj\Debug\UITest-iOS.pdb
